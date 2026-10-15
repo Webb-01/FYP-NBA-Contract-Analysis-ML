@@ -219,3 +219,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 FYP Software/notebooks/db_config.py
+FYP Report/.DS_Store
+FYP Report/Weekly Logs PDF/.DS_Store
+.DS_Store
