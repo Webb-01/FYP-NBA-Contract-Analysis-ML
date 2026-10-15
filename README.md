@@ -1,10 +1,12 @@
 # Hidden Gems: Analysing NBA contract value with machine learning
 
-Final Year Project, BSc (Hons) Software Development, TUS.
-Student: Oisin Webb (K00293591)
-Supervisor: James Fennell
+- Final Year Project, BSc (Hons) Software Development, TUS.
+- Student: Oisin Webb (K00293591)
+- Supervisor: James Fennell
 
-This project aims to analyse what the NBA pays for, to find which players give the best value for money. A model sets a salary benchmark (% of the salary cap) from each player's stats. Players paid well below it are flagged as `hidden gems`, under are flagged as `overvalued `and middle ground are `fairly valued`.
+## Project Aim
+
+- This project aims to analyse what the NBA pays for, to find which players give the best value for money. A model sets a salary benchmark (% of the salary cap) from each player's stats. Players paid well below it are flagged as `hidden gems`, under are flagged as `overvalued `and middle ground are `fairly valued`.
 
 ## Folders
 - FYP Report: Reports, documentations and deliverables, uploaded as new versions.
