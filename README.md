@@ -5,7 +5,6 @@
 - Supervisor: James Fennell
 
 ## Project Aim
-
 - This project aims to analyse what the NBA pays for, to find which players give the best value for money. A model sets a salary benchmark (% of the salary cap) from each player's stats. Players paid well below it are flagged as `hidden gems`, under are flagged as `overvalued `and middle ground are `fairly valued`.
 
 ## Folders
@@ -18,3 +17,7 @@
 
 ## Tools
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn), PostgreSQL hosted on Aiven, Streamlit.
+
+## Cross Reference Website
+- Basketball Reference.
+- Available at: https://www.basketball-reference.com/
