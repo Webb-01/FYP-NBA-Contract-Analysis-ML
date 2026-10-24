@@ -3,7 +3,13 @@
 Project documentation for my Hidden Gems FYP.
 
 ## Contents
-- **Proposal:** Final project proposal.
-- **Proposal Presentation:** Slides from the proposal presentation (October 2026).
-- **Weekly Log:** Short weekly record of progress, problems and next steps.
-- **Report:** Dissertation drafts (added as writing starts).
+
+- **Proposal** - final project proposal
+- **Proposal Presentation** - slides from the proposal presentation (October 2026)
+- **Weekly Log** - short weekly record of progress, problems and next steps
+- **Reports**
+  - Literature/technical review
+  - Analysis/design chapter
+  - Implementation chapter
+  - Testing/results chapter
+  - Draft of full report
